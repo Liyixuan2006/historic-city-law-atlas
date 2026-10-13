@@ -1,0 +1,482 @@
+{
+  "methodNote": "“not_found” means the PKULaw English database returned no result for an exact search of the Chinese title on the date shown; it does not establish that no translation exists elsewhere. “title_only” means PKULaw returned a linked English title but no English full text.",
+  "checkedAt": "2026-10-13",
+  "count": 59,
+  "results": [
+    {
+      "id": "FBMCLI.10.8719617",
+      "chineseTitle": "朝阳市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7308159",
+      "chineseTitle": "广州市历史文化名城保护条例(2023修订)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7706125",
+      "chineseTitle": "海口市历史文化名城保护条例(2024修正)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7706123",
+      "chineseTitle": "海口市人民代表大会常务委员会关于修改《海口市历史文化名城保护条例》的决定(2024)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9191486",
+      "chineseTitle": "衡阳市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9518646",
+      "chineseTitle": "淮安国家历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9191449",
+      "chineseTitle": "南平市建瓯历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9476014",
+      "chineseTitle": "莆田市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.8750700",
+      "chineseTitle": "三明市泰宁历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9602547",
+      "chineseTitle": "厦门历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9191487",
+      "chineseTitle": "邵阳市武冈历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7807668",
+      "chineseTitle": "潍坊市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9483232",
+      "chineseTitle": "西安历史文化名城保护条例(2025修订)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7555523",
+      "chineseTitle": "邢台市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.8694652",
+      "chineseTitle": "徐州市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9474334",
+      "chineseTitle": "玉溪市通海县历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9277156",
+      "chineseTitle": "岳阳历史文化名城保护条例(2025修正)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9191489",
+      "chineseTitle": "岳阳市人民代表大会常务委员会关于修改《岳阳历史文化名城保护条例》等地方性法规的决定",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.8049106",
+      "chineseTitle": "长春市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7321447",
+      "chineseTitle": "遵义历史文化名城保护条例(2023修正)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7185442",
+      "chineseTitle": "保定市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1687579",
+      "chineseTitle": "北京历史文化名城保护条例(2021)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "title_only",
+      "englishTitle": "Measures of Beijing Municipality for the Protection of the Historical and Cultural Landmark of Beijing (2021)",
+      "fullTextAvailable": false,
+      "recordUrl": "https://www.pkulaw.com/en_lar/d66377253a7840a685eee63f7b2b5ebfbdfb.html?keyword=%E5%8C%97%E4%BA%AC%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96%E5%90%8D%E5%9F%8E%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B%282021%29&flag=chinese"
+    },
+    {
+      "id": "FBMCLI.10.7056842",
+      "chineseTitle": "承德市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7179694",
+      "chineseTitle": "滁州市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1666467",
+      "chineseTitle": "大连市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.4789838",
+      "chineseTitle": "福州市历史文化名城保护条例(2021修正)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.4789839",
+      "chineseTitle": "福州市人民代表大会常务委员会关于修改《福州市历史文化名城保护条例》的决定(2021)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.6853863",
+      "chineseTitle": "杭州市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.4783869",
+      "chineseTitle": "辽阳市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.4087861",
+      "chineseTitle": "柳州市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1640280",
+      "chineseTitle": "龙岩市长汀历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1681552",
+      "chineseTitle": "洛阳市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.4621790",
+      "chineseTitle": "泉州市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.6844556",
+      "chineseTitle": "太原市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1685450",
+      "chineseTitle": "西安历史文化名城保护条例(2021修正)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.4084953",
+      "chineseTitle": "忻州市代县历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.7318142",
+      "chineseTitle": "银川市历史文化名城保护条例(2023修订)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.6946695",
+      "chineseTitle": "自贡历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1418169",
+      "chineseTitle": "亳州国家历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1255208",
+      "chineseTitle": "常州市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1424720",
+      "chineseTitle": "潮州市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1587081",
+      "chineseTitle": "哈尔滨市历史文化名城保护条例(2020)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1640823",
+      "chineseTitle": "济南市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1591538",
+      "chineseTitle": "昆明市历史文化名城保护条例(2020)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1429484",
+      "chineseTitle": "南昌市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1521716",
+      "chineseTitle": "曲靖市会泽历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1421008",
+      "chineseTitle": "苏州国家历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.1552061",
+      "chineseTitle": "镇江市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.5520945",
+      "chineseTitle": "河南省历史文化名城保护条例(2010修正)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.452415",
+      "chineseTitle": "南京市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.343577",
+      "chineseTitle": "沈阳历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.60978",
+      "chineseTitle": "长沙市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.17.652269",
+      "chineseTitle": "凉山彝族自治州会理历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.17.7307208",
+      "chineseTitle": "黔东南苗族侗族自治州镇远历史文化名城保护条例(2023修订)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.17.1550906",
+      "chineseTitle": "湘西土家族苗族自治州凤凰历史文化名城保护条例(2019修正)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.17.1550900",
+      "chineseTitle": "湘西土家族苗族自治州人民代表大会关于修改《湘西土家族苗族自治州凤凰历史文化名城保护条例》的决定(2019)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.17.5049775",
+      "chineseTitle": "云南省大理白族自治州大理历史文化名城保护条例(2022修订)",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9903391",
+      "chineseTitle": "南京历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    },
+    {
+      "id": "FBMCLI.10.9844892",
+      "chineseTitle": "肇庆市历史文化名城保护条例",
+      "checkedAt": "2026-10-13",
+      "source": "PKULaw English database, accessed via China University of Political Science and Law institutional entry",
+      "query": "Chinese title; exact title match",
+      "status": "not_found"
+    }
+  ]
+}

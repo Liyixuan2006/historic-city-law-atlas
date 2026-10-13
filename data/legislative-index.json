@@ -1,0 +1,963 @@
+{
+  "metadata": {
+    "reportTitle": "中国历史文化名城保护立法指数报告",
+    "source": "《中国历史文化名城保护立法指数报告》附录A",
+    "evaluationDate": "2026-08-09",
+    "sampleCount": 53,
+    "removedOlderOrDuplicateVersions": 6,
+    "average": 51.8,
+    "median": 52.9,
+    "countyCount": 11,
+    "countyAverage": 46.1,
+    "prefectureCount": 42,
+    "prefectureAverage": 53.3,
+    "scope": "仅评价条例文本的立法质量，不评价实际实施效能。"
+  },
+  "dimensions": [
+    {
+      "key": "objects",
+      "name": "保护对象与规范完整性",
+      "max": 15,
+      "average": 10.5
+    },
+    {
+      "key": "responsibilities",
+      "name": "责任主体与权责清晰度",
+      "max": 15,
+      "average": 11.0
+    },
+    {
+      "key": "procedures",
+      "name": "保护措施与执行程序",
+      "max": 20,
+      "average": 8.9
+    },
+    {
+      "key": "funding",
+      "name": "资金投入与权益补偿",
+      "max": 15,
+      "average": 5.9
+    },
+    {
+      "key": "use",
+      "name": "保护利用协调与活化传承",
+      "max": 12,
+      "average": 7.7
+    },
+    {
+      "key": "participation",
+      "name": "公众参与与监督问责",
+      "max": 13,
+      "average": 6.5
+    },
+    {
+      "key": "digital",
+      "name": "数字化治理与动态监测",
+      "max": 10,
+      "average": 1.3
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "name": "西安历史文化名城保护条例(2025修订)",
+      "level": "省市级",
+      "total": 66.6,
+      "lawId": "FBMCLI.10.9483232",
+      "jurisdiction": "西安",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 14.5,
+        "procedures": 12.2,
+        "funding": 6.8,
+        "use": 10.8,
+        "participation": 8.6,
+        "digital": 2.5
+      }
+    },
+    {
+      "rank": 2,
+      "name": "广州市历史文化名城保护条例(2023修订)",
+      "level": "省市级",
+      "total": 66.3,
+      "lawId": "FBMCLI.10.7308159",
+      "jurisdiction": "广州市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 13.8,
+        "procedures": 12.0,
+        "funding": 8.0,
+        "use": 9.6,
+        "participation": 8.4,
+        "digital": 2.5
+      }
+    },
+    {
+      "rank": 3,
+      "name": "自贡历史文化名城保护条例",
+      "level": "省市级",
+      "total": 61.9,
+      "lawId": "FBMCLI.10.6946695",
+      "jurisdiction": "自贡",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 12.5,
+        "procedures": 10.5,
+        "funding": 8.5,
+        "use": 9.1,
+        "participation": 7.5,
+        "digital": 1.8
+      }
+    },
+    {
+      "rank": 4,
+      "name": "常州市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 61.6,
+      "lawId": "FBMCLI.10.1255208",
+      "jurisdiction": "常州市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 11.5,
+        "procedures": 12.5,
+        "funding": 8.2,
+        "use": 6.8,
+        "participation": 8.9,
+        "digital": 1.8
+      }
+    },
+    {
+      "rank": 5,
+      "name": "潍坊市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 61.5,
+      "lawId": "FBMCLI.10.7807668",
+      "jurisdiction": "潍坊市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 13.0,
+        "procedures": 9.5,
+        "funding": 8.8,
+        "use": 10.1,
+        "participation": 6.9,
+        "digital": 2.0
+      }
+    },
+    {
+      "rank": 6,
+      "name": "徐州市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 60.6,
+      "lawId": "FBMCLI.10.8694652",
+      "jurisdiction": "徐州市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 13.0,
+        "procedures": 12.2,
+        "funding": 4.2,
+        "use": 9.9,
+        "participation": 7.5,
+        "digital": 2.5
+      }
+    },
+    {
+      "rank": 7,
+      "name": "北京历史文化名城保护条例(2021)",
+      "level": "省市级",
+      "total": 60.4,
+      "lawId": "FBMCLI.10.1687579",
+      "jurisdiction": "北京",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 13.8,
+        "procedures": 10.5,
+        "funding": 7.5,
+        "use": 9.1,
+        "participation": 6.2,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 8,
+      "name": "南京历史文化名城保护条例",
+      "level": "省市级",
+      "total": 60.3,
+      "lawId": "FBMCLI.10.9903391",
+      "jurisdiction": "南京",
+      "scores": {
+        "objects": 10.5,
+        "responsibilities": 13.0,
+        "procedures": 12.2,
+        "funding": 7.2,
+        "use": 8.0,
+        "participation": 8.0,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 9,
+      "name": "济南市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 59.5,
+      "lawId": "FBMCLI.10.1640823",
+      "jurisdiction": "济南市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 12.8,
+        "procedures": 9.0,
+        "funding": 10.0,
+        "use": 8.0,
+        "participation": 6.8,
+        "digital": 1.8
+      }
+    },
+    {
+      "rank": 10,
+      "name": "洛阳市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 59.4,
+      "lawId": "FBMCLI.10.1681552",
+      "jurisdiction": "洛阳市",
+      "scores": {
+        "objects": 10.5,
+        "responsibilities": 12.8,
+        "procedures": 10.8,
+        "funding": 8.2,
+        "use": 8.6,
+        "participation": 7.5,
+        "digital": 1.0
+      }
+    },
+    {
+      "rank": 11,
+      "name": "厦门历史文化名城保护条例",
+      "level": "省市级",
+      "total": 59.3,
+      "lawId": "FBMCLI.10.9602547",
+      "jurisdiction": "厦门",
+      "scores": {
+        "objects": 10.5,
+        "responsibilities": 13.2,
+        "procedures": 11.5,
+        "funding": 8.0,
+        "use": 8.8,
+        "participation": 4.8,
+        "digital": 2.5
+      }
+    },
+    {
+      "rank": 12,
+      "name": "肇庆市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 59.0,
+      "lawId": "FBMCLI.10.9844892",
+      "jurisdiction": "肇庆市",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 13.8,
+        "procedures": 8.8,
+        "funding": 8.8,
+        "use": 9.6,
+        "participation": 5.6,
+        "digital": 2.8
+      }
+    },
+    {
+      "rank": 13,
+      "name": "保定市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 58.8,
+      "lawId": "FBMCLI.10.7185442",
+      "jurisdiction": "保定市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 12.0,
+        "procedures": 10.0,
+        "funding": 5.2,
+        "use": 10.3,
+        "participation": 8.2,
+        "digital": 1.8
+      }
+    },
+    {
+      "rank": 14,
+      "name": "大连市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 58.5,
+      "lawId": "FBMCLI.10.1666467",
+      "jurisdiction": "大连市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 10.8,
+        "procedures": 12.0,
+        "funding": 6.8,
+        "use": 8.0,
+        "participation": 8.5,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 15,
+      "name": "哈尔滨市历史文化名城保护条例(2020)",
+      "level": "省市级",
+      "total": 57.6,
+      "lawId": "FBMCLI.10.1587081",
+      "jurisdiction": "哈尔滨市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 11.0,
+        "procedures": 9.5,
+        "funding": 9.8,
+        "use": 7.5,
+        "participation": 7.6,
+        "digital": 1.0
+      }
+    },
+    {
+      "rank": 16,
+      "name": "柳州市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 56.3,
+      "lawId": "FBMCLI.10.4087861",
+      "jurisdiction": "柳州市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 12.0,
+        "procedures": 8.8,
+        "funding": 6.0,
+        "use": 8.5,
+        "participation": 8.5,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 17,
+      "name": "苏州国家历史文化名城保护条例",
+      "level": "省市级",
+      "total": 55.4,
+      "lawId": "FBMCLI.10.1421008",
+      "jurisdiction": "苏州",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 10.8,
+        "procedures": 8.2,
+        "funding": 8.2,
+        "use": 9.3,
+        "participation": 7.9,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 18,
+      "name": "南昌市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 55.1,
+      "lawId": "FBMCLI.10.1429484",
+      "jurisdiction": "南昌市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 10.8,
+        "procedures": 8.8,
+        "funding": 7.8,
+        "use": 7.5,
+        "participation": 6.6,
+        "digital": 1.8
+      }
+    },
+    {
+      "rank": 19,
+      "name": "龙岩市长汀历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 54.9,
+      "lawId": "FBMCLI.10.1640280",
+      "jurisdiction": "龙岩市长汀",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 10.2,
+        "procedures": 8.2,
+        "funding": 6.5,
+        "use": 9.1,
+        "participation": 8.3,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 20,
+      "name": "遵义历史文化名城保护条例(2023修正)",
+      "level": "省市级",
+      "total": 54.9,
+      "lawId": "FBMCLI.10.7321447",
+      "jurisdiction": "遵义",
+      "scores": {
+        "objects": 12.8,
+        "responsibilities": 11.2,
+        "procedures": 8.5,
+        "funding": 6.2,
+        "use": 8.0,
+        "participation": 6.9,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 21,
+      "name": "云南省大理白族自治州大理历史文化名城保护条例(2022修订)",
+      "level": "县级（含县级市）",
+      "total": 54.8,
+      "lawId": "FBMCLI.17.5049775",
+      "jurisdiction": "云南省大理白族自治州大理",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 11.0,
+        "procedures": 8.5,
+        "funding": 7.2,
+        "use": 9.1,
+        "participation": 7.1,
+        "digital": 2.0
+      }
+    },
+    {
+      "rank": 22,
+      "name": "泉州市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 54.6,
+      "lawId": "FBMCLI.10.4621790",
+      "jurisdiction": "泉州市",
+      "scores": {
+        "objects": 10.5,
+        "responsibilities": 11.8,
+        "procedures": 9.8,
+        "funding": 7.5,
+        "use": 8.6,
+        "participation": 6.0,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 23,
+      "name": "邢台市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 54.3,
+      "lawId": "FBMCLI.10.7555523",
+      "jurisdiction": "邢台市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 11.5,
+        "procedures": 9.5,
+        "funding": 5.2,
+        "use": 7.4,
+        "participation": 6.9,
+        "digital": 1.8
+      }
+    },
+    {
+      "rank": 24,
+      "name": "杭州市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 54.1,
+      "lawId": "FBMCLI.10.6853863",
+      "jurisdiction": "杭州市",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 13.0,
+        "procedures": 10.8,
+        "funding": 4.5,
+        "use": 6.9,
+        "participation": 8.0,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 25,
+      "name": "南平市建瓯历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 53.6,
+      "lawId": "FBMCLI.10.9191449",
+      "jurisdiction": "南平市建瓯",
+      "scores": {
+        "objects": 7.5,
+        "responsibilities": 11.0,
+        "procedures": 10.0,
+        "funding": 6.5,
+        "use": 9.8,
+        "participation": 6.9,
+        "digital": 2.0
+      }
+    },
+    {
+      "rank": 26,
+      "name": "太原市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 53.0,
+      "lawId": "FBMCLI.10.6844556",
+      "jurisdiction": "太原市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 11.5,
+        "procedures": 10.5,
+        "funding": 3.2,
+        "use": 6.9,
+        "participation": 8.4,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 27,
+      "name": "辽阳市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 52.9,
+      "lawId": "FBMCLI.10.4783869",
+      "jurisdiction": "辽阳市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 11.5,
+        "procedures": 9.8,
+        "funding": 4.8,
+        "use": 6.3,
+        "participation": 8.1,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 28,
+      "name": "莆田市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 52.6,
+      "lawId": "FBMCLI.10.9476014",
+      "jurisdiction": "莆田市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 11.0,
+        "procedures": 8.8,
+        "funding": 7.2,
+        "use": 6.8,
+        "participation": 5.9,
+        "digital": 1.8
+      }
+    },
+    {
+      "rank": 29,
+      "name": "承德市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 52.5,
+      "lawId": "FBMCLI.10.7056842",
+      "jurisdiction": "承德市",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 11.5,
+        "procedures": 9.0,
+        "funding": 7.5,
+        "use": 7.4,
+        "participation": 6.9,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 30,
+      "name": "朝阳市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 52.4,
+      "lawId": "FBMCLI.10.8719617",
+      "jurisdiction": "朝阳市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 12.0,
+        "procedures": 8.2,
+        "funding": 5.5,
+        "use": 9.1,
+        "participation": 5.8,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 31,
+      "name": "镇江市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 51.9,
+      "lawId": "FBMCLI.10.1552061",
+      "jurisdiction": "镇江市",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 12.8,
+        "procedures": 9.2,
+        "funding": 6.2,
+        "use": 5.6,
+        "participation": 7.2,
+        "digital": 1.0
+      }
+    },
+    {
+      "rank": 32,
+      "name": "潮州市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 51.5,
+      "lawId": "FBMCLI.10.1424720",
+      "jurisdiction": "潮州市",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 10.5,
+        "procedures": 9.5,
+        "funding": 6.5,
+        "use": 7.4,
+        "participation": 7.4,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 33,
+      "name": "玉溪市通海县历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 51.5,
+      "lawId": "FBMCLI.10.9474334",
+      "jurisdiction": "玉溪市通海县",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 11.5,
+        "procedures": 9.5,
+        "funding": 2.0,
+        "use": 9.0,
+        "participation": 7.2,
+        "digital": 2.5
+      }
+    },
+    {
+      "rank": 34,
+      "name": "银川市历史文化名城保护条例(2023修订)",
+      "level": "省市级",
+      "total": 51.4,
+      "lawId": "FBMCLI.10.7318142",
+      "jurisdiction": "银川市",
+      "scores": {
+        "objects": 10.5,
+        "responsibilities": 12.0,
+        "procedures": 8.5,
+        "funding": 4.0,
+        "use": 7.5,
+        "participation": 6.9,
+        "digital": 2.0
+      }
+    },
+    {
+      "rank": 35,
+      "name": "海口市历史文化名城保护条例(2024修正)",
+      "level": "省市级",
+      "total": 51.3,
+      "lawId": "FBMCLI.10.7706125",
+      "jurisdiction": "海口市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 10.0,
+        "procedures": 8.5,
+        "funding": 5.8,
+        "use": 8.0,
+        "participation": 6.5,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 36,
+      "name": "长春市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 50.9,
+      "lawId": "FBMCLI.10.8049106",
+      "jurisdiction": "长春市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 12.0,
+        "procedures": 10.5,
+        "funding": 4.5,
+        "use": 6.9,
+        "participation": 4.5,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 37,
+      "name": "昆明市历史文化名城保护条例(2020)",
+      "level": "省市级",
+      "total": 50.5,
+      "lawId": "FBMCLI.10.1591538",
+      "jurisdiction": "昆明市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 10.0,
+        "procedures": 8.5,
+        "funding": 4.5,
+        "use": 6.2,
+        "participation": 8.0,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 38,
+      "name": "黔东南苗族侗族自治州镇远历史文化名城保护条例(2023修订)",
+      "level": "县级（含县级市）",
+      "total": 49.9,
+      "lawId": "FBMCLI.17.7307208",
+      "jurisdiction": "黔东南苗族侗族自治州镇远",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 9.5,
+        "procedures": 8.5,
+        "funding": 2.0,
+        "use": 10.8,
+        "participation": 5.9,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 39,
+      "name": "衡阳市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 49.2,
+      "lawId": "FBMCLI.10.9191486",
+      "jurisdiction": "衡阳市",
+      "scores": {
+        "objects": 12.0,
+        "responsibilities": 12.0,
+        "procedures": 5.2,
+        "funding": 8.2,
+        "use": 6.0,
+        "participation": 4.5,
+        "digital": 1.2
+      }
+    },
+    {
+      "rank": 40,
+      "name": "曲靖市会泽历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 49.0,
+      "lawId": "FBMCLI.10.1521716",
+      "jurisdiction": "曲靖市会泽",
+      "scores": {
+        "objects": 10.5,
+        "responsibilities": 9.2,
+        "procedures": 7.8,
+        "funding": 7.8,
+        "use": 7.4,
+        "participation": 5.9,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 41,
+      "name": "福州市历史文化名城保护条例(2021修正)",
+      "level": "省市级",
+      "total": 47.9,
+      "lawId": "FBMCLI.10.4789838",
+      "jurisdiction": "福州市",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 9.8,
+        "procedures": 7.0,
+        "funding": 6.5,
+        "use": 5.0,
+        "participation": 5.6,
+        "digital": 2.8
+      }
+    },
+    {
+      "rank": 42,
+      "name": "亳州国家历史文化名城保护条例",
+      "level": "省市级",
+      "total": 47.8,
+      "lawId": "FBMCLI.10.1418169",
+      "jurisdiction": "亳州",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 11.0,
+        "procedures": 8.2,
+        "funding": 5.2,
+        "use": 6.2,
+        "participation": 6.8,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 43,
+      "name": "三明市泰宁历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 47.6,
+      "lawId": "FBMCLI.10.8750700",
+      "jurisdiction": "三明市泰宁",
+      "scores": {
+        "objects": 6.8,
+        "responsibilities": 11.8,
+        "procedures": 6.8,
+        "funding": 6.5,
+        "use": 7.9,
+        "participation": 6.0,
+        "digital": 2.0
+      }
+    },
+    {
+      "rank": 44,
+      "name": "邵阳市武冈历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 46.9,
+      "lawId": "FBMCLI.10.9191487",
+      "jurisdiction": "邵阳市武冈",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 11.0,
+        "procedures": 8.2,
+        "funding": 1.2,
+        "use": 6.8,
+        "participation": 7.9,
+        "digital": 2.0
+      }
+    },
+    {
+      "rank": 45,
+      "name": "岳阳历史文化名城保护条例(2025修正)",
+      "level": "省市级",
+      "total": 45.4,
+      "lawId": "FBMCLI.10.9277156",
+      "jurisdiction": "岳阳",
+      "scores": {
+        "objects": 11.2,
+        "responsibilities": 10.0,
+        "procedures": 7.0,
+        "funding": 4.8,
+        "use": 6.9,
+        "participation": 5.0,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 46,
+      "name": "滁州市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 43.3,
+      "lawId": "FBMCLI.10.7179694",
+      "jurisdiction": "滁州市",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 11.8,
+        "procedures": 8.0,
+        "funding": 3.5,
+        "use": 6.9,
+        "participation": 2.9,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 47,
+      "name": "淮安国家历史文化名城保护条例",
+      "level": "省市级",
+      "total": 39.8,
+      "lawId": "FBMCLI.10.9518646",
+      "jurisdiction": "淮安",
+      "scores": {
+        "objects": 8.2,
+        "responsibilities": 9.8,
+        "procedures": 6.2,
+        "funding": 4.2,
+        "use": 7.5,
+        "participation": 3.2,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 48,
+      "name": "长沙市历史文化名城保护条例",
+      "level": "省市级",
+      "total": 37.6,
+      "lawId": "FBMCLI.10.60978",
+      "jurisdiction": "长沙市",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 5.5,
+        "procedures": 6.8,
+        "funding": 5.5,
+        "use": 6.9,
+        "participation": 2.8,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 49,
+      "name": "沈阳历史文化名城保护条例",
+      "level": "省市级",
+      "total": 36.4,
+      "lawId": "FBMCLI.10.343577",
+      "jurisdiction": "沈阳",
+      "scores": {
+        "objects": 9.8,
+        "responsibilities": 5.8,
+        "procedures": 6.2,
+        "funding": 4.0,
+        "use": 5.6,
+        "participation": 4.5,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 50,
+      "name": "湘西土家族苗族自治州凤凰历史文化名城保护条例(2019修正)",
+      "level": "县级（含县级市）",
+      "total": 35.1,
+      "lawId": "FBMCLI.17.1550906",
+      "jurisdiction": "湘西土家族苗族自治州凤凰",
+      "scores": {
+        "objects": 8.2,
+        "responsibilities": 6.5,
+        "procedures": 6.8,
+        "funding": 3.0,
+        "use": 5.6,
+        "participation": 4.5,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 51,
+      "name": "忻州市代县历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 33.6,
+      "lawId": "FBMCLI.10.4084953",
+      "jurisdiction": "忻州市代县",
+      "scores": {
+        "objects": 8.2,
+        "responsibilities": 7.2,
+        "procedures": 6.0,
+        "funding": 2.0,
+        "use": 3.8,
+        "participation": 5.9,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 52,
+      "name": "凉山彝族自治州会理历史文化名城保护条例",
+      "level": "县级（含县级市）",
+      "total": 30.4,
+      "lawId": "FBMCLI.17.652269",
+      "jurisdiction": "凉山彝族自治州会理",
+      "scores": {
+        "objects": 7.5,
+        "responsibilities": 4.5,
+        "procedures": 7.0,
+        "funding": 1.5,
+        "use": 4.9,
+        "participation": 4.5,
+        "digital": 0.5
+      }
+    },
+    {
+      "rank": 53,
+      "name": "河南省历史文化名城保护条例(2010修正)",
+      "level": "省市级",
+      "total": 22.5,
+      "lawId": "FBMCLI.10.5520945",
+      "jurisdiction": "河南省",
+      "scores": {
+        "objects": 6.0,
+        "responsibilities": 6.2,
+        "procedures": 1.8,
+        "funding": 2.8,
+        "use": 2.5,
+        "participation": 2.8,
+        "digital": 0.5
+      }
+    }
+  ]
+}
